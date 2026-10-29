@@ -15,7 +15,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Build stage: Building the application'
+                echo 'Jenkins SCM polling test.'
             }
         }
 
